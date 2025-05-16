@@ -6,8 +6,8 @@ import { Audio } from 'expo-av';
 import * as FileSystem from 'expo-file-system';
 
 // TODO: Store your Google Speech-to-Text API key securely (e.g., in .env or config)
-const GOOGLE_SPEECH_API_KEY = 'AIzaSyAS03G4S6tbzxr81Yxmi-ZJZ6AJjhEfAN8';
-const OPENAI_API_KEY = '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';
+const GOOGLE_SPEECH_API_KEY = 'xx';
+const OPENAI_API_KEY = 'xx';
 
 const SYSTEM_PROMPT = `You are GeNie, the AI assistant for the ÆTHERA eco-mobility app. Your main focus is to help users with:
 - Understanding and using eco-friendly transport options (bus, bike, scooter, car, walk)
