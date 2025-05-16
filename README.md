@@ -1,6 +1,6 @@
 # aethera
 Instalo Node.js --> https://nodejs.org
-Instalo Git ---> https://git-scm.com
+Instalo Git ---> https://git-scm.com.
 Hap terminal dhe ekzekuto komandn:  git clone https://github.com/AleksFiraj/aethera
 Pastaj --> cd aethera
 Instalo React Native Expo --> npm install -g expo-cli
