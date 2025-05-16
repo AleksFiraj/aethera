@@ -56,8 +56,8 @@ const MOCK_REWARDS = [
 const ProfileScreen = ({ navigation }) => {
   const [isLoading, setIsLoading] = useState(true);
   const [userData, setUserData] = useState({
-    name: 'Migel Xheko',
-    email: 'xhekomigel@gmail.com',
+    name: 'John Doe',
+    email: 'johndoe@gmail.com',
     phone: '+355 69 388 7847',
     avatar: 'https://img.icons8.com/ios-filled/100/4CAF50/user-male-circle.png',
     points: 85
